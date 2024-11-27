@@ -1,6 +1,8 @@
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seino-ta&layout=compact&count_private=true&show_icons=true&theme=dracula" />　<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=seino-ta&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seino-ta&layout=compact&count_private=true&show_icons=true&theme=algolia" />　<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=seino-ta&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seino-ta&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seino-ta&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seino-ta&theme=algolia)
 
 ### Article
 - [初のメンターを通して心に留めておくべきだと思ったこと](https://qiita.com/seino-ta/items/a706ec5f780cf24835af)
